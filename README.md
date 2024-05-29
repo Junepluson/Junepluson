@@ -5,7 +5,7 @@
   </a>
 
   <p herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,django,docker,git,js,linux,mongodb,mysql,nestjs,nextjs,nodejs,ts&perline=6"/>
+    <img src="https://skillicons.dev/icons?i=js,html,css,aws,git,linux,mysql,nextjs,nodejs,c,vim,arduino,figmats&perline=6"/>
   </p>
   
   </br>
